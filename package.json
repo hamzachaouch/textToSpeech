@@ -1,0 +1,23 @@
+{
+  "name": "texttosound",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamzachaouch/textToSpeech.git"
+  },
+  "author": "hamza chaouch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamzachaouch/textToSpeech/issues"
+  },
+  "homepage": "https://github.com/hamzachaouch/textToSpeech#readme",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
